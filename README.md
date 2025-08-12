@@ -15,8 +15,9 @@ $$
 \Large \color{#e2b041}\mathbf{DSL \ KeyPad} \\
 \large \color{#e2b041}\mathbf{Customization \ Stuff} \\
 \text{ } \\
-\href{https://katex.org/}{KaTeX}
-
+\text{Bases and samples} \\
+\text{ } \\
+\small \text{QWERTY | ЙЦУКЕН | ϞϜΕΡΤΥ } \\
 \end{array}
 $$
 
