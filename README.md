@@ -23,8 +23,4 @@ $$
 
 ---
 
-<p align="center">
-
 Repository of customization stuff for [DSL KeyPad](https://github.com/DemerNkardaz/DSL-KeyPad) that may be useful for user needs.
-
-</p>
